@@ -1,6 +1,12 @@
 ![My Badge](https://img.shields.io/badge/Profile-Active-ff69b4)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Project](https://img.shields.io/badge/Building-Pokemon%20Game-blueviolet)
+# 🚀 Hasti
+
+🔬 **Science Student** turned **Python Learner**.  
+*Building things with code, one script at a time.*
+
+---
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ## 📊 GitHub Stats
 ![Hasti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasti-m7&show_icons=true&theme=radical)
 
