@@ -1,4 +1,4 @@
-## Hi there 👋
+![My Badge](https://img.shields.io/badge/Profile-Active-ff69b4)
 
 <!--
 **hasti-m7/hasti-m7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
