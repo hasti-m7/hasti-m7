@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&width=435&lines=Welcome+to+my+profile!;Learning+Python+🐍;Science+Student+🔬" alt="Typing SVG" />
+
 ![My Badge](https://img.shields.io/badge/Profile-Active-ff69b4)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 # 🚀 Hasti
