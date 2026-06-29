@@ -9,17 +9,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Retro Arcade Board
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Retro Pacman Board
         uses: lowlighter/metrics@latest
         with:
           filename: github-pacman.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_details: bytes-size, percentage
-          config_order: languages
-          
-          # This triggers the classic arcade animation overlay
-          config_twemojis: yes
-          config_theme: dark
+          plugin_lines: yes
+          config_theme: github-retro
