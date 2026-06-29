@@ -10,7 +10,12 @@
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![OG Pacman](https://raw.githubusercontent.com/hasti-m7/hasti-m7/main/github-pacman.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=PAC-MAN&fontSize=90&animation=twinkling" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasti-m7&show_icons=true&theme=retro" />
+</p>
+
 ## 📊 GitHub Stats
 ![Hasti's Stats](https://github-readme-streak-stats.herokuapp.com/?user=hasti-m7&theme=radical&hide_border=false)
 
