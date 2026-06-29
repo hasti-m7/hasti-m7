@@ -10,6 +10,11 @@
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=PAC-MAN&fontSize=90&animation=twinkling" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasti-m7&show_icons=true&theme=retro" />
+</p>
 <p align="center">
   <img src="https://media.giphy.com/media/fB938PbR1vUfF5Z0vB/giphy.gif" width="400" />
 </p>
