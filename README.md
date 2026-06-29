@@ -1,6 +1,6 @@
 
 ![My Badge](https://img.shields.io/badge/Profile-Active-ff69b4)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 # 🚀 Hasti
 
 🔬 **Science Student** turned **Python Learner**.  
