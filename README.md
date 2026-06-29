@@ -1,5 +1,6 @@
 
 ![My Badge](https://img.shields.io/badge/Profile-Active-ff69b4)
+![](https://komarev.com/ghpvc/?username=hasti-m7&color=blueviolet&style=flat-square)
 
 # 🚀 Hasti
 
