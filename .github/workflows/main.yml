@@ -2,18 +2,14 @@ name: Generate Pacman
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Runs automatically every 12 hours
-  workflow_dispatch: # Allows you to run it manually
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Pacman Animation
-        uses: lowlighter/metrics@latest
+      - name: Generate Pacman Board
+        uses: jasonlong/github-readme-pacman@main
         with:
-          filename: github-pacman.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          github_user_name: hasti-m7
