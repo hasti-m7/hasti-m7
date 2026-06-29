@@ -10,7 +10,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Snake Game](https://raw.githubusercontent.com/hasti-m7/hasti-m7/output/github-snake-dark.svg)
 ## 📊 GitHub Stats
-![Hasti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasti-m7&show_icons=true&theme=radical)
+![Hasti's Stats](https://github-readme-streak-stats.herokuapp.com/?user=hasti-m7&theme=radical&hide_border=false)
 
 <!--
 **hasti-m7/hasti-m7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
