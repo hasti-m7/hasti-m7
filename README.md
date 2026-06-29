@@ -8,6 +8,7 @@
 
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Snake Game](https://raw.githubusercontent.com/hasti-m7/hasti-m7/output/github-snake-dark.svg)
 ## 📊 GitHub Stats
 ![Hasti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasti-m7&show_icons=true&theme=radical)
 
