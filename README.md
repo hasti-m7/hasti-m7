@@ -1,4 +1,7 @@
 
+<p align="center">
+  <img src="https://assets.pokemon.com/assets/cms2/img/misc/countries/au/pokemon-unite-pacman.gif" width="600" alt="Pacman Arcade Grid" />
+</p>
 ![My Badge](https://img.shields.io/badge/Profile-Active-ff69b4)
 
 
