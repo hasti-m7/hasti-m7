@@ -9,7 +9,7 @@
 
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pacman Game](https://raw.githubusercontent.com/hasti-m7/hasti-m7/main/github-pacman.svg)
+![Pacman Snake Game](https://raw.githubusercontent.com/hasti-m7/hasti-m7/output/github-snake-dark.svg)
 ## 📊 GitHub Stats
 ![Hasti's Stats](https://github-readme-streak-stats.herokuapp.com/?user=hasti-m7&theme=radical&hide_border=false)
 
