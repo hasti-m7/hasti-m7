@@ -17,8 +17,8 @@
 
 ![Hasti's Stats](https://github-readme-stats-one-bice.vercel.app/api?username=hasti-m7&show_icons=true&theme=radical)
 
-<!-- START_SECTION:waka-->
-<!-- END_SECTION:waka-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **hasti-m7/hasti-m7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
