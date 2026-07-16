@@ -18,6 +18,13 @@
 ![Hasti's Stats](https://github-readme-stats-one-bice.vercel.app/api?username=hasti-m7&show_icons=true&theme=radical)
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 08 July 2026 - To: 15 July 2026
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <!--
